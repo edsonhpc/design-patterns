@@ -7,7 +7,7 @@ package patterns.stategy.task;
  */
 public class TesteCalculoDeInvestimento {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {   
 		
 		Conta conta = new Conta();
 		conta.deposita(100);
